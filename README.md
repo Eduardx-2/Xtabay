@@ -8,3 +8,6 @@
 - Agrupación de texto con imágen.
 - Configuración de texto
 - Manejo de tipado de fuente.
+
+- # POR QUÉ?
+- Xtabay pretende ahorrar tokens de uso diario de IA, así reducir costo de tareas que a largo puedan gastar X cantidad de tokens, que termine perjudicando al usuario. Por eso Xtabay pretende reducir en un 60% su gasto, al ser una herramienta que su configuración para crear PPTX es un archivo JSON con eso se pretende reducir largas tareas y reducirlo a solo pedir una configuración que facilmente puede tardar 1 minuto en generarse usando IA.
