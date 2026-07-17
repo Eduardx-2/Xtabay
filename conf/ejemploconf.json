@@ -1,0 +1,69 @@
+{
+    "informacion": {
+        "pags": 3,
+        "space-pag": "DCS",
+        "space-mod":"classic",
+        "title": {
+            "title_1": {
+                "content": "titulo",
+                "tituloFont": ["16"],
+                "typeLetra": "bold",
+                "subtitle":null
+            },
+            "title_2": {
+                "content": null,
+                "tituloFont": ["tamaño"],
+                "typeLetra": "bold",
+                "subtitle": null
+            },
+            "title_3": {
+                "content": "titulo",
+                "tituloFont": ["26"],
+                "typeLetra": "italic",
+                "subtitle": {
+                    "content": ["sub1", "sub1", "sub1", "sub1"],
+                    "type": "anidado",
+                    "font": ["tamaño"],
+                    "typeLetra": "bold",
+                    "color": ""
+                }
+            }
+        },
+        "text_body":{
+            "pag_1": {
+                "verifyImage": "False",
+                "content": [
+                    "texo1",
+                    "texto2","texto3","texto4"],
+                "cuerpoContent": ["16"],
+                "typeLetra": "bold", 
+                "mode": "tree-d",
+                "image": "ruta",
+                "format-text": "graph"
+            },
+            "pag_2": {
+                "verifyImage": "True",
+                "content": "texto",
+                "cuerpoContent": ["16"],
+                "typeLetra": "bold", 
+                "mode": "image-a",
+                "image": "ruta",
+                "format-text": "normal"
+            },
+            "pag_3": {
+                "verifyImage": "False",
+                "content": "",
+                "cuerpoContent": ["11"],
+                "typeLetra": "italic", 
+                "mode": "",
+                "image": "",
+                "format-text": "i_normal"
+            }
+        }
+    },
+    "colors_letra":{
+        "titulo":"negro",
+        "subtitulo": "azul_marino",
+        "body": "verde_esmeralda"
+    }    
+}  
