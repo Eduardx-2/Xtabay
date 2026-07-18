@@ -14,6 +14,8 @@
 
 - # VISTA CONFIGURACIÓN
 
+# Comandos:
+- conf/CONF.md
   
 <p align="center">
 <img width="70%" height="70%" src="https://github.com/Eduardx-2/Xtabay/blob/main/config.png"/>
