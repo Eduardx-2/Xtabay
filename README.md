@@ -13,11 +13,12 @@
 - Xtabay pretende ahorrar tokens de uso diario de IA, así reducir costo de tareas que a largo puedan gastar X cantidad de tokens, que termine perjudicando al usuario. Por eso Xtabay pretende reducir en un 60% su gasto, al ser una herramienta que su configuración para crear PPTX es un archivo JSON con eso se pretende reducir largas tareas y reducirlo a solo pedir una configuración que facilmente puede tardar 1 minuto en generarse usando IA.
 
 - # VISTA CONFIGURACIÓN
-
-# Comandos:
-- conf/CONF.md
   
 <p align="center">
 <img width="70%" height="70%" src="https://github.com/Eduardx-2/Xtabay/blob/main/config.png"/>
 </a>
 </p>
+
+# COMANDO CONFIGURACIÓN
+- conf/CONF.md
+
