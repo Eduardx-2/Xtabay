@@ -21,4 +21,6 @@
 
 # COMANDO CONFIGURACIÓN
 - conf/CONF.md
+- En la ruta conf/ se encuentra el archivo de configuración .json en el cuál se contiene un ejemplo de configuración para crear una pptx.
+  
 
