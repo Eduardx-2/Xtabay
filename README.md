@@ -22,5 +22,6 @@
 # COMANDO CONFIGURACIÓN
 - conf/CONF.md
 - En la ruta conf/ se encuentra el archivo de configuración .json en el cuál se contiene un ejemplo de configuración para crear una pptx.
-  
 
+# COMANDO CONFIGURACIÓN
+- ¿Cómo puedo generar dicha configuración? La configuración se puede crear pasandole el archivo de ejemplo de configuración (.json) a la IA (La que más uses en tu día a día), esta se encargara de rellenar los datos de cada clave json.
