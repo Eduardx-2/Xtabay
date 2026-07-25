@@ -25,3 +25,4 @@
 
 # COMANDO CONFIGURACIÓN
 - ¿Cómo puedo generar dicha configuración? La configuración se puede crear pasandole el archivo de ejemplo de configuración (.json) a la IA (La que más uses en tu día a día), esta se encargara de rellenar los datos de cada clave json.
+
